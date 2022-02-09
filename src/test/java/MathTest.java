@@ -20,4 +20,5 @@ public class MathTest {
 
     @Test
     public void threePowerTwo() { assertEquals(Math.power(3,2),9);}
+
 }
